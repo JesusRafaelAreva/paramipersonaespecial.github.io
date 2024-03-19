@@ -16,7 +16,7 @@ var lyricsData = [
   { text: "quiero cuidarte,", time: 59 },
   { text: "protegerte. ", time: 67 },
   { text: "recuerda que nunca estaras sola,", time: 72 },
-  { text: "áseñpqie pase estare ay para ti.", time: 78 },
+  { text: "pase lo pase estare ay para ti.", time: 78 },
   { text: "Te quiero mucho", time: 83 },
   { text: "Hoy", time: 91 },
   { text: "mañana", time: 97 },
